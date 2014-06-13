@@ -1,5 +1,5 @@
 //
-//  UBA_TechViewController.h
+//  UBA_TechTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by UBA Tech on 6/13/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UBA_TechViewController : UIViewController
+@interface UBA_TechTableViewController : UITableViewController
 
 @end
